@@ -33,7 +33,7 @@ MFA Delete: it requires the user to provide a valid MFA code for verification
 
 정답: A
 
-Q96.
+Q96
 
 정답: C
 
